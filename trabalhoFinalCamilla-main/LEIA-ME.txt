@@ -1,0 +1,27 @@
+BEAUTIFUL COLOR — PROJETO REVISADO
+
+Como abrir:
+1. Extraia a pasta do arquivo ZIP.
+2. Abra a pasta trabalhoFinalCamilla.
+3. Entre na pasta html.
+4. Abra o arquivo index.html em um navegador.
+
+O que foi ajustado:
+- Corrigidos os textos, acentuação e estrutura das páginas.
+- Criado o arquivo css/style.css com identidade visual responsiva.
+- Integrado o Bootstrap local já presente no projeto.
+- Corrigidos os caminhos de CSS, JavaScript e imagens.
+- Atualizada a navegação entre Início, Sobre, Galeria e Contato.
+- Organizada a galeria com as imagens existentes.
+- Melhorados os textos alternativos das imagens.
+- Formulário com validação básica.
+
+Importante sobre o formulário:
+O projeto é estático e não possui servidor/backend. Ao clicar em “Preparar e-mail”,
+o navegador abre o aplicativo de e-mail padrão com os campos preenchidos.
+Para receber mensagens diretamente no site, será necessário configurar um serviço
+de formulários ou um backend.
+
+Observação:
+Os dados de contato existentes no projeto original foram mantidos. Revise-os antes
+de publicar o site na internet.
